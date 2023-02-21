@@ -9,7 +9,7 @@ Learn with Microsoft through these programs to take your technical skills to the
 | [Cloud Skills Challenge-Azure Fundamentals](https://learn.microsoft.com/en-us/users/sandramarin/collections/n6ga8m0jkgrwk) | Learn the essentials of Azure—architectural components and core services and solutions, plus management tools, compliance, security, and data protection.| Self-training |
 | [Cloud Skills Challenge-DevOps Engineer](https://learn.microsoft.com/en-us/users/sandramarin/collections/5w7tk3yx1qnj7) | Designing and Implementing Microsoft DevOps Solutions.| Self-training |
 | [Cloud Skills Challenge-Azure AI Fundamentals](https://learn.microsoft.com/en-us/users/sandramarin/collections/zopanqdn7w1p1) | Learn about many areas of Artificial Intelligence (AI), including machine learning, computer vision, natural language processing, and conversational AI.| Self-training |
-| [MLOPs Workshop - LAB CONTENT DETAILS](https://github.com/microsoft/MLOpsTemplate/blob/main/src/workshop/README.md#workshop-scenario) | GitHub repo| Documentation |
+| [MLOPs Workshop - LAB CONTENT DETAILS](https://github.com/microsoft/MLOpsTemplate/tree/main/src/workshop) | GitHub repo| Documentation |
 
 
 ---
